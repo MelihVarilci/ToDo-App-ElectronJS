@@ -6,4 +6,4 @@
 
 ---
 
-[ToDo App Download Link (.zip)](https://drive.google.com/file/d/1z1-CxaI5GDePrQVer2mvElpRjLYp4dbK/view?usp=sharing)
+[Download for Windows (.zip)](https://drive.google.com/file/d/1z1-CxaI5GDePrQVer2mvElpRjLYp4dbK/view?usp=sharing)
